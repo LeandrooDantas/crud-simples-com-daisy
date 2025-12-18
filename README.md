@@ -17,6 +17,7 @@ O projeto consiste em um **CRUD simples** (Create, Read, Update, Delete), onde f
 
 ## 🛠️ Tecnologias Utilizadas
 
+- PHP
 - Laravel
 - HTML
 - CSS
